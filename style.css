@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#cell_phone, #start, #status{
+    font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    background-color: darkturquoise;
+    color: lime;
+    width: 100%;
+    bottom: 0px;
+    line-height: 3;
+    text-align: center;
+}
